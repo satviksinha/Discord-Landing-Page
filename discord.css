@@ -112,4 +112,8 @@ button:hover{
     text-align: center;
     padding-top:200px;
 }
+li:first-child{
+    font-size: medium;
+    font-weight: bold;
+}
 
